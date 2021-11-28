@@ -15,5 +15,5 @@ int main() {
 		sum += p;
 	}
 	cout << sum << endl;
-	return 0
+	return 0;
 }
